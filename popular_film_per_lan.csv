@@ -1,38 +1,38 @@
-original_language,max_popularity
-en,99.69
-es,90.81
-it,88.38
-el,28.86
-te,16.25
-he,14.08
-pl,13.27
-nb,12.98
-no,11.21
-zh,9.95
-pt,9.68
-ko,9.57
-ja,9.48
-ro,9.27
-fr,9.24
-th,9.03
-id,8.89
-cn,8.49
-hi,8.11
-de,8.01
-sv,7.76
-ru,7.74
-fa,7.07
-da,7.05
-xx,6.54
-nl,5.01
-ar,4.89
-af,2.50
-cs,2.39
-hu,1.91
-is,1.62
-tr,1.47
-ps,1.45
-ta,0.42
-ky,0.08
-vi,0.07
-sl,0.06
+original_language,title,popularity
+en,Minions,875.5813
+ja,千と千尋の神隠し,118.96856
+es,El laberinto del fauno,90.80941
+it,"Il buono, il brutto, il cattivo",88.377075
+fr,Le fabuleux destin d'Amélie Poulain,73.720245
+ko,Snowpiercer,64.238686
+zh,卧虎藏龙,45.742252
+pt,Cidade de Deus,44.356712
+id,Serbuan maut,40.285095
+da,What Happens in Vegas,38.100487
+de,Das Leben der Anderen,34.938175
+el,Κυνόδοντας,28.858238
+ru,Солярис,24.13227
+cn,葉問3,19.167377
+te,Baahubali: The Beginning,16.254032
+he,Vals Im Bashir,14.08251
+hi,Dabba,14.017809
+nl,Zwartboek,13.906611
+pl,Ida,13.265432
+nb,Trolljegeren,12.982319
+fa,جدایی نادر از سیمین,12.049373
+th,ต้มยำกุ้ง,11.81832
+sv,Viskningar och rop,11.347855
+no,Død snø,11.205726
+ro,"4 luni, 3 săptămîni și 2 zile",9.270133
+xx,La Guerre du feu,6.537986
+ar,The Square,4.892203
+af,Tsotsi,2.504169
+cs,Obsluhoval jsem anglického krále,2.387463
+hu,Sorstalanság,1.906807
+is,Hross í oss,1.617943
+tr,Kurtlar vadisi - Irak,1.465762
+ps,Osama,1.447734
+ta,ராமானுஜன்,0.416179
+ky,Kurmanjan Datka. Queen of the Mountains,0.077873
+vi,Vượt Sóng,0.072066
+sl,Julija in Alfa Romeo,0.061248
